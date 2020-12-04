@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725677312592",
+    "project_id": "cc17-myfavoriteytchannel",
+    "storage_bucket": "cc17-myfavoriteytchannel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725677312592:android:f9dd4953c7893e638d9f55",
+        "android_client_info": {
+          "package_name": "com.example.youtubechannel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725677312592-hgc6edehdbbrmfv9jvqpqbcetbfoep8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjsDaK4lUoMD8hBD4DvUFkUmYpxisIOKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725677312592-hgc6edehdbbrmfv9jvqpqbcetbfoep8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
